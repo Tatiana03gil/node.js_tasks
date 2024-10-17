@@ -1,0 +1,12 @@
+{
+  "name": "address-generator-rus",
+  "version": "1.0.0",
+  "description": "random Russian address generator",
+  "main": "getAddress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["adress", "generator"],
+  "author": "",
+  "license": "ISC"
+}
